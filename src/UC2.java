@@ -1,5 +1,5 @@
 
-public class UC1 {
+public class UC2 {
 
     // Main method - entry point of the application
     public static void main(String[] args) {
